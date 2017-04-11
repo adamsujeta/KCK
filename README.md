@@ -1,2 +1,2 @@
 # KCK
-Project
+Projekt na zaliczenie
